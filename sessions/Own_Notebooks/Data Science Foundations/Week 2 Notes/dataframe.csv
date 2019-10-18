@@ -1,0 +1,21 @@
+,index,id,name,alias,iata,icao,callsign,country,active
+0,0,1,Private flight,\N,-,,,,Y
+1,1,2,135 Airways,\N,,GNL,GENERAL,United States,N
+2,2,3,1Time Airline,\N,1T,RNX,NEXTIME,South Africa,Y
+3,3,4,2 Sqn No 1 Elementary Flying Training School,\N,,WYT,,United Kingdom,N
+4,4,5,213 Flight Unit,\N,,TFU,,Russia,N
+5,5,6,223 Flight Unit State Airline,\N,,CHD,CHKALOVSK-AVIA,Russia,N
+6,6,7,224th Flight Unit,\N,,TTF,CARGO UNIT,Russia,N
+7,7,8,247 Jet Ltd,\N,,TWF,CLOUD RUNNER,United Kingdom,N
+8,8,9,3D Aviation,\N,,SEC,SECUREX,United States,N
+9,9,10,40-Mile Air,\N,Q5,MLA,MILE-AIR,United States,Y
+10,10,11,4D Air,\N,,QRT,QUARTET,Thailand,N
+11,11,12,611897 Alberta Limited,\N,,THD,DONUT,Canada,N
+12,12,13,Ansett Australia,\N,AN,AAA,ANSETT,Australia,Y
+13,13,14,Abacus International,\N,1B,,,Singapore,Y
+14,14,15,Abelag Aviation,\N,W9,AAB,ABG,Belgium,N
+15,15,16,Army Air Corps,\N,,AAC,ARMYAIR,United Kingdom,N
+16,16,17,Aero Aviation Centre Ltd.,\N,,AAD,SUNRISE,Canada,N
+17,17,18,Aero Servicios Ejecutivos Internacionales,\N,,SII,ASEISA,Mexico,N
+18,18,19,Aero Biniza,\N,,BZS,BINIZA,Mexico,N
+19,19,20,Aero Albatros,\N,,ABM,ALBATROS ESPANA,Spain,N
